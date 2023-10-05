@@ -1,0 +1,16 @@
+.favFood {
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+  margin: 20px;
+}
+
+.foodImg {
+  width: 100%;
+  height: 250px;
+}
+
+.foodName {
+  padding: 20px;
+  text-align: center;
+}
